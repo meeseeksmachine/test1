@@ -1,0 +1,7 @@
+users:
+    steaiou:
+       - say
+       - tag
+       - untag
+       - close
+    
