@@ -4,3 +4,17 @@ users:
             - say
             - close
             - open
+            - merge
+    nellev:
+        can:
+            - say
+            - tag
+            - close
+            - open
+            - merge
+    staeiou:
+        can:
+            - say
+            - tag
+            - untag
+            - merge
