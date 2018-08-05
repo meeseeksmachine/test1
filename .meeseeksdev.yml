@@ -1,7 +1,8 @@
 users:
     steaiou:
-       - say
-       - tag
-       - untag
-       - close
+        can: 
+           - say
+           - tag
+           - untag
+           - close
     
