@@ -5,6 +5,7 @@ users:
             - close
             - open
             - merge
+            - tag
     nellev:
         can:
             - say
