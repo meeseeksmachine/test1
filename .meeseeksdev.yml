@@ -1,4 +1,12 @@
 users:
+    choldgraff:
+        can:
+            - say
+            - open
+            - close
+            - tag
+            - untag
+            - merge
     Carreau:
         can:
             - say
