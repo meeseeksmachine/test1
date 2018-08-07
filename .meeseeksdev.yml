@@ -1,3 +1,8 @@
+special:
+    everyone:
+        can: 
+            - say
+            - tag
 users:
     tacaswell:
         can:
@@ -13,11 +18,7 @@ users:
             - merge
     Carreau:
         can:
-            - say
-            - close
-            - open
             - merge
-            - tag
     nellev:
         can:
             - say
