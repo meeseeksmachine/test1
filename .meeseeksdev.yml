@@ -1,5 +1,5 @@
 users:
-    choldgraff:
+    choldgraf:
         can:
             - say
             - open
