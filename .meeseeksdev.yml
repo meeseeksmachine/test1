@@ -1,4 +1,8 @@
 users:
+    tacaswell:
+        can:
+            - merge
+            - tag
     choldgraf:
         can:
             - say
