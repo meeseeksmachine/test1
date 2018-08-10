@@ -4,9 +4,15 @@ special:
             - say
             - tag
         config:
+            tag:
+              only:
+                 - help
+                 - resolved
             say:
-                - "say specific"
-                - "config values"
+              only:
+                 - a
+                 - b
+                 - c
                 
 users:
     tacaswell:
