@@ -3,6 +3,11 @@ special:
         can: 
             - say
             - tag
+        config:
+            - say:
+                - "say specific"
+                - "config values"
+                
 users:
     tacaswell:
         can:
@@ -19,6 +24,15 @@ users:
     Carreau:
         can:
             - merge
+            - debug
+        config:
+            - debug: 
+                - A1
+                - B2
+                - C3 : 
+                    - 1
+                    - 2
+                    - 3
     nellev:
         can:
             - say
