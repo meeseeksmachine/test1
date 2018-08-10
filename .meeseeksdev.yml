@@ -32,9 +32,14 @@ users:
             - merge
             - debug
         config:
-            - debug: 
+            debug: 
                 - A1
                 - B2
+            tag:
+              only:
+                 - help
+                 - resolved
+                 - super
 
     nellev:
         can:
