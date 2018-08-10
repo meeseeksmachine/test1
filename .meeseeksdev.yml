@@ -4,7 +4,7 @@ special:
             - say
             - tag
         config:
-            - say:
+            say:
                 - "say specific"
                 - "config values"
                 
@@ -26,10 +26,10 @@ users:
             - merge
             - debug
         config:
-            - debug: 
-                - A1
-                - B2
-                - C3 : 
+            debug: 
+                A1
+                B2
+                C3 : 
                     - 1
                     - 2
                     - 3
