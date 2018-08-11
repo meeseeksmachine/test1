@@ -37,9 +37,10 @@ users:
                 - A1
                 - B2
             tag:
-              any: True
+              any: False
               only:
                  - help
+                 - invalid
                  - resolved
                  - super
 
