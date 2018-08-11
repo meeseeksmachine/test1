@@ -32,6 +32,7 @@ users:
             - merge
             - debug
             - tag
+            - untag
         config:
             debug: 
                 - A1
