@@ -37,7 +37,7 @@ users:
                 - A1
                 - B2
             tag:
-            any: True
+              any: True
               only:
                  - help
                  - resolved
