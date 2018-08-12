@@ -1,13 +1,10 @@
-# This is a test repo
+# This is a test repository
 
-Enjoy!
-
+Feel free to request access, but mostly this is to test @meeseeksdev and debug it. 
 Feel free to open issues and send PRs.
 
-Let's see if we can get this one backported to 1.x
 
-
-crossrepo pull request test
+Crossrepo pull request test
 
  - May 21, 17:31 - test autofork.
  - May 21, 17:37 - test autofork, json=None
