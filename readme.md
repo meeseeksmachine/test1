@@ -6,8 +6,6 @@ Feel free to open issues and send PRs.
 
 Let's see if we can get this one backported to 1.x
 
-Test squashmerge
-
 
 crossrepo pull request test
 
