@@ -44,6 +44,7 @@ users:
                  - invalid
                  - resolved
                  - super
+                 - 'backport: 0.14.x'
 
     nellev:
         can:
